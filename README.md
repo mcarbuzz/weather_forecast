@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple.svg?logo=kotlin)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-API_21+-green.svg?logo=android)](https://developer.android.com/)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5+-blue.svg)](https://developer.android.com/jetpack/compose)
-
 **Умное и красивое приложение для отслеживания погоды с поддержкой избранных городов**
 
 </div>
@@ -74,8 +70,8 @@ Weather Forecast — современное Android-приложение для 
 ## 🛠 Технологии
 
 ### **Языки и фреймворки**
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) **Kotlin** — основной язык разработки
-- ![Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) **Jetpack Compose** — современный UI toolkit
+- **Kotlin** — основной язык разработки
+- **Jetpack Compose** — современный UI toolkit
 
 ### **Архитектура**
 - **MVVM (Model-View-ViewModel)** — архитектурный паттерн
